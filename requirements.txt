@@ -4,3 +4,7 @@ python-multipart
 ultralytics
 opencv-python-headless
 Pillow
+mlflow
+codecarbon
+pytest
+pytest-cov

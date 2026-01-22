@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/admin/proj-dev/EcoVision/mlruns/302062676674243815/0ee930dabd1341ca92d5a52e27743579/artifacts
+end_time: 1769116005085
+entry_point_name: ''
+experiment_id: '302062676674243815'
+lifecycle_stage: active
+run_id: 0ee930dabd1341ca92d5a52e27743579
+run_name: intrigued-shark-706
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769116005024
+status: 3
+tags: []
+user_id: admin
