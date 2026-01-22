@@ -1,0 +1,49 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+.ipynb_checkpoints
+
+# Environments
+.env
+.venv
+env/
+venv/
+
+# Datasets (ne pas copier dans l'image)
+datasets/
+data/raw/
+data/processed/
+
+# Logs et runs
+runs/
+logs/
+*.log
+emissions.csv
+
+# Notebooks
+notebooks/
+
+# Git
+.git/
+.gitignore
+
+# IDE
+.vscode/
+.idea/
+
+# Docker
+Dockerfile
+.dockerignore
+
+# Weights locaux (garde seulement models/trained/*/weights/best.pt)
+models/pretrained/
+models/trained/*/weights/last.pt
+weights/
+
+# OS
+.DS_Store
+Thumbs.db
