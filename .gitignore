@@ -1,0 +1,24 @@
+
+__pycache__/
+*.py[cod]
+*.so
+
+# Environnement virtuel
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Données & Modèles (Trop lourds pour Git !)
+datasets/
+runs/
+weights/
+*.pt
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
