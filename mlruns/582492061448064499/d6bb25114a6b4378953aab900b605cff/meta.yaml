@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/admin/proj-dev/EcoVision/mlruns/582492061448064499/d6bb25114a6b4378953aab900b605cff/artifacts
+end_time: 1769116004785
+entry_point_name: ''
+experiment_id: '582492061448064499'
+lifecycle_stage: active
+run_id: d6bb25114a6b4378953aab900b605cff
+run_name: yolov8n_waste_training
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769109158128
+status: 3
+tags: []
+user_id: admin
